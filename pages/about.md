@@ -7,7 +7,7 @@ menu: 关于
 permalink: /about/
 ---
 
-多学习、多思考、多沉淀
+多请教、多学习、多思考、多沉淀
 
 ## 联系
 
@@ -24,7 +24,7 @@ permalink: /about/
 </ul>
 
 
-## Skill Keywords
+## 热爱领域
 
 {% for skill in site.data.skills %}
 ### {{ skill.name }}
