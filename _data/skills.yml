@@ -1,19 +1,13 @@
-- name: Software Engineer Keywords
+- name: 计算机
   keywords:
       - Java
-      - C++
+      - C
       - Python
-      - Design Patterns
+      - 深度学习
+      - 操作系统
+      - GPU计算
 
-- name: Mobile Developer Keywords
+- name: 哲学
   keywords:
-      - Android
-      - Reverse Engineering
+      - 理想国
 
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg

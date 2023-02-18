@@ -3,11 +3,11 @@
 # ---------------- #
 baseurl:
 date_format: "ordinal"
-title: 陈万恒的page
+title: 陈万恒的博客
 subtitle: "welcome" 
 description: "陈万恒的个人博客"
 keywords: 陈万恒、计算机、哲学
-timezone: Asia/beijing
+timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2023
@@ -99,7 +99,7 @@ navs:
 # ---------------- #
 #       RSS        #
 # ---------------- #
-subscribe_rss: /feed.xml
+# subscribe_rss: /feed.xml
 
 # ---------------- #
 #      Jekyll      #
